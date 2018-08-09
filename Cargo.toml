@@ -1,0 +1,7 @@
+[package]
+name = "hello-tokio"
+version = "0.1.0"
+authors = ["jswizzy <smithjn@g.cofc.edu>"]
+
+[dependencies]
+tokio = "0.1"
